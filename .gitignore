@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Segredos e variáveis de ambiente
+.env
+*.pem
+.aws/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Sistema e editor
+.DS_Store
+.vscode/
